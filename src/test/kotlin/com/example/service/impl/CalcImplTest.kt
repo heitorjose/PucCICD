@@ -12,6 +12,6 @@ class CalcImplTest() {
     fun sum() {
         val calc = mock<Calc>()
         Mockito.`when`(calc. sum(1,2)).thenReturn(3)
-        assertEquals(calc.sum(1,2),3)
+        assertEquals(calc.sum(1,3),3)
     }
 }
