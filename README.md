@@ -1,7 +1,6 @@
-# PucCICD
+[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg?event=watch)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
+# PucCICD 
 # Getting Started
-[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg?branch=master)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
-[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg?branch=master&event=workflow_run)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
 ### Reference Documentation
 For further reference, please consider the following sections:
 
