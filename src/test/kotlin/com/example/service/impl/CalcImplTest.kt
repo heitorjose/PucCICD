@@ -7,7 +7,7 @@ import org.mockito.Mockito
 import org.mockito.kotlin.mock
 
 class CalcImplTest() {
-//ssad
+
     @Test
     fun sum() {
         val calc = mock<Calc>()
