@@ -7,7 +7,7 @@ import org.mockito.Mockito
 import org.mockito.kotlin.mock
 
 class CalcImplTest() {
-
+    // Teste para rodar o action
     @Test
     fun sum() {
         val calc = mock<Calc>()
