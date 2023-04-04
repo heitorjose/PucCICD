@@ -10,6 +10,6 @@ class PucController {
 
     @RequestMapping("/api/hello", method = [RequestMethod.GET])
     fun hello(): String {
-        return "Hello CI/CD PUC 04/04/2023"
+        return "Heitor José de Andrade Lira - Cultura e Práticas Devops - Turma IEC_ASD_O3_T1_Online - CI/CD PUC 04/04/2023"
     }
 }
