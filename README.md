@@ -1,4 +1,4 @@
-[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg?event=watch)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
+[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
 # PucCICD 
 # Getting Started
 ### Reference Documentation
