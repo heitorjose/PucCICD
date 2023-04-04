@@ -12,6 +12,6 @@ class PucController {
 
     @RequestMapping("/api/hello", method = [RequestMethod.GET])
     fun hello(): String {
-        return "Hello CI/CD PUC Falhou"
+        return "Hello CI/CD PUC 04/04/2023"
     }
 }
