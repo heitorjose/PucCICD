@@ -1,6 +1,7 @@
 # PucCICD
 # Getting Started
-[![Build Status](https://github.com/anothrNick/github-tag-action/workflows/Bump%20version/badge.svg)](https://github.com/anothrNick/github-tag-action/workflows/Bump%20version/badge.svg)
+[![CI/CD](https://github.com/heitorjose/PucCICD/blob/master/.github/workflows/action.yml/badge.svg)](https://github.com/heitorjose/PucCICD/blob/master/.github/workflows/action.yml/badge.svg
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
