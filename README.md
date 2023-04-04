@@ -1,6 +1,6 @@
 [![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
 # PucCICD 
-# Getting Started
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
