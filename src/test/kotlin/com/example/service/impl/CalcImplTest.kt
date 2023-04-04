@@ -7,7 +7,7 @@ import org.mockito.Mockito
 import org.mockito.kotlin.mock
 
 class CalcImplTest() {
-
+    // Atualização de versão
     @Test
     fun sum() {
         val calc = mock<Calc>()
