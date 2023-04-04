@@ -1,7 +1,6 @@
 # PucCICD
 # Getting Started
-[![CI/CD](https://github.com/heitorjose/PucCICD/blob/master/.github/workflows/action.yml/badge.svg)](https://github.com/heitorjose/PucCICD/blob/master/.github/workflows/action.yml/badge.svg
-
+[![Build](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml/badge.svg?branch=master)](https://github.com/heitorjose/PucCICD/actions/workflows/action.yml)
 ### Reference Documentation
 For further reference, please consider the following sections:
 
